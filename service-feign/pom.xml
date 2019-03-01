@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
     <packaging>jar</packaging>
 
-    <artifactId>serice-feign</artifactId>
+    <artifactId>service-feign</artifactId>
 
     <dependencies>
         <dependency>
