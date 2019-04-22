@@ -2,7 +2,11 @@ spring:
   application:
     name: eurka-server
   profiles:
-    active: eureka2
+    active: eureka1
+  security:
+    user:
+      name: yulj
+      password: yulj
 eureka:
   client:
     # 表示是否注册自身到eureka服务器
