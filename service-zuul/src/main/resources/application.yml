@@ -3,7 +3,8 @@ eureka:
     serviceUrl:
       defaultZone: http://yulj:yulj@eureka1:8761/eureka/,http://yulj:yulj@eureka2:8760/eureka/
 server:
-  port: 8769
+  #  port: 8769
+  port: 8770
 spring:
   application:
     name: service-zuul
